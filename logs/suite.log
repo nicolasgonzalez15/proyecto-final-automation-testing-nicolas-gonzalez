@@ -1,0 +1,24 @@
+19:57:40 INFO TalentoTech Completando con datos del usuario.
+19:57:40 INFO TalentoTech Verificando redireccion dentro de la página
+19:57:40 INFO TalentoTech Test de Login completado.
+19:57:46 INFO TalentoTech Completando con datos del usuario.
+19:59:40 INFO TalentoTech Completando con datos del usuario. Usuario:standard_user - Password:secret_sauce
+19:59:40 INFO TalentoTech Verificando redireccion dentro de la página
+19:59:40 INFO TalentoTech Test de Login completado.
+19:59:45 INFO TalentoTech Completando con datos del usuario. Usuario:admin - Password:1234
+2025-11-26 20:01:56 INFO TalentoTech Completando con datos del usuario. Usuario:standard_user - Password:secret_sauce
+2025-11-26 20:01:56 INFO TalentoTech Verificando redireccion dentro de la página
+2025-11-26 20:01:56 INFO TalentoTech Test de Login completado.
+2025-11-26 20:02:02 INFO TalentoTech Completando con datos del usuario. Usuario:admin - Password:1234
+2025-11-26 20:20:58 INFO TalentoTech Completando con datos del usuario. Usuario:standard_user - Password:secret_sauce
+2025-11-26 20:20:58 INFO TalentoTech Verificando redireccion dentro de la página
+2025-11-26 20:20:58 INFO TalentoTech Test de Login completado.
+2025-11-26 20:21:02 INFO TalentoTech Completando con datos del usuario. Usuario:admin - Password:1234
+2025-11-26 20:28:55 INFO TalentoTech Completando con datos del usuario. Usuario:standard_user - Password:secret_sauce
+2025-11-26 20:28:55 INFO TalentoTech Verificando redireccion dentro de la página
+2025-11-26 20:28:55 INFO TalentoTech Test de Login completado.
+2025-11-26 20:29:01 INFO TalentoTech Completando con datos del usuario. Usuario:admin - Password:1234
+2025-11-26 21:41:21 INFO TalentoTech Realizando solicitud GET a https://reqres.in/api/users
+2025-11-26 21:41:22 INFO TalentoTech Status code: 200
+2025-11-26 21:41:29 INFO TalentoTech Realizando solicitud GET a https://reqres.in/api/users
+2025-11-26 21:41:30 INFO TalentoTech Status code: 200
