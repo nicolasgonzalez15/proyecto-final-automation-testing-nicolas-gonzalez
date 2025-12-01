@@ -44,7 +44,7 @@ Con el fin de ahorrar tiempo y recursos, se quiere automatizar flujos críticos 
     - **test_cart_json.py** (tests de login / agregar productos desde Inventory / verificar carrito exitoso, utilizando productos de archivo JSON)
     - **test_api_reqres.py** (tests de distintos tipos de peticiones a api Reqres / GET - POST - DELETE)
 
-## Ejuctar todas las pruebas
+## Ejecutar todas las pruebas
 Para iniciar la ejecucion de las pruebas debes ejecutar la siguiente linea:
 
 ```bash
