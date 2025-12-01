@@ -60,4 +60,4 @@ python -m run_tests.py
     - Las capturas de pantalla para pruebas fallidas
 
 ### Conclusion
-Este proyecto ofrece una estructura organizada y escalable para automatizar pruebas de API utilizando Python y Pytest. Incluye un flujo simple de ejeucion mediante `run_test.py`, generacion automatica de reporte HTML facilitando el analisis de las pruebas.
+Este proyecto ofrece una estructura organizada y escalable para automatizar pruebas de API utilizando Python y Pytest. Incluye un flujo simple de ejeucion mediante `run_tests.py`, generacion automatica de reporte HTML facilitando el analisis de las pruebas.
