@@ -43,3 +43,21 @@ Con el fin de ahorrar tiempo y recursos, se quiere automatizar flujos críticos 
     - **test_cart.py** (tests de login / agregar productos desde Inventory / verificar carrito exitoso)
     - **test_cart_json.py** (tests de login / agregar productos desde Inventory / verificar carrito exitoso, utilizando productos de archivo JSON)
     - **test_api_reqres.py** (tests de distintos tipos de peticiones a api Reqres / GET - POST - DELETE)
+
+## Ejuctar todas las pruebas
+Para iniciar la ejecucion de las pruebas debes ejecutar la siguiente linea:
+
+```bash
+python -m run_tests.py
+```
+
+## ¿Como interpretar los reportes?
+- Al ejecutar `run_test.py`, se genera un archivo HTML en la carpeta raiz.
+- El reporte incluye:
+    - Lista completa de test ejecutados
+    - El estado de cada prueba
+    - La duracion de cada test
+    - Las capturas de pantalla para pruebas fallidas
+
+### Conclusion
+Este proyecto ofrece una estructura organizada y escalable para automatizar pruebas de API utilizando Python y Pytest. Incluye un flujo simple de ejeucion mediante `run_test.py`, generacion automatica de reporte HTML facilitando el analisis de las pruebas.
